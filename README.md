@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+👩🏻‍💻 Graduation<br />
+Information Systems Engineering | Sakarya University<br />
+Computer Engineering | Sakarya University<br />
 <!--
 **beyzaatosun/beyzaatosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
