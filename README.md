@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Beyza Altıntaş.<br />
 
 👩🏻‍💻 Graduation<br />
 Information Systems Engineering | Sakarya University<br />
