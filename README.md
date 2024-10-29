@@ -5,6 +5,8 @@ I'm Beyza Altıntaş.<br />
 👩🏻‍💻 Graduation<br />
 Information Systems Engineering | Sakarya University<br />
 Computer Engineering | Sakarya University<br />
+
+🔭 Artificial Intelligence | Deep learning | Machine Learning | Computer Vision | Natural language Processing 
 <!--
 **beyzaatosun/beyzaatosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
